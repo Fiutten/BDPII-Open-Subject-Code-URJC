@@ -27,7 +27,7 @@ Cada bloque conserva sus instrucciones y dependencias. Consulte los README y fic
 
 ## Licencia
 
-El código fuente se distribuye bajo la licencia [MIT](LICENSE). Los textos descriptivos de este repositorio pueden reutilse bajo la misma licencia salvo indicación expresa.
+El código fuente se distribuye bajo la licencia [MIT](LICENSE). Los textos descriptivos de este repositorio pueden reutilizarse bajo la misma licencia salvo indicación expresa.
 
 ## Software Heritage
 
