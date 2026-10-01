@@ -39,4 +39,4 @@ El resto del material abierto de la asignatura se mantiene en el repositorio mae
 
 https://github.com/Fiutten/BDPII-Open-Subject-2026
 
-Las fuentes LaTeX publicables de teoría de los temas 5 y 6 ya están incorporadas en el repositorio maestro. Están documentadas como reconstrucciones fieles a partir de los PDF de trabajo.
+Las fuentes LaTeX editables de teoría de los temas 5 y 6 ya están incorporadas y verificadas en el repositorio maestro.
