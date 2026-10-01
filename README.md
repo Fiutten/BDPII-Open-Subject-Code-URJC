@@ -27,7 +27,7 @@ Cada bloque conserva sus instrucciones y dependencias. Consulte los README y fic
 
 ## Licencia
 
-El código fuente se distribuye bajo la licencia [MIT](LICENSE). Los textos descriptivos de este repositorio pueden reutilizarse bajo la misma licencia salvo indicación expresa.
+El código fuente se distribuye bajo la licencia [MIT](LICENSE). Los textos descriptivos de este repositorio pueden reutilse bajo la misma licencia salvo indicación expresa.
 
 ## Software Heritage
 
@@ -39,4 +39,4 @@ El resto del material abierto de la asignatura se mantiene en el repositorio mae
 
 https://github.com/Fiutten/BDPII-Open-Subject-2026
 
-Las fuentes docentes originales de teoría de los temas 5 y 6 están pendientes de recepción por parte del equipo docente. Esa circunstancia no altera el contenido de código publicado en este repositorio.
+Las fuentes LaTeX publicables de teoría de los temas 5 y 6 ya están incorporadas en el repositorio maestro. Están documentadas como reconstrucciones fieles a partir de los PDF de trabajo.
